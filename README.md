@@ -1,0 +1,2 @@
+# DNA-Classification-Challenge-With-Kernel-Methods
+This code descripes a refactring to an original code I wrote for the competition of the course "Kernel Methods" taught in MoSIG. It is for DNA classification (structural data) with different flavors from the kernel regime to leverage the power of Kernel Methods. This is code was first written with my team mate then but I did the refactoring as I planned to implement more advanced kernels such as Convolution Kernel Network(CKN) (Mairal et al., 2017) 
